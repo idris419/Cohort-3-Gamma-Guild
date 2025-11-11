@@ -256,7 +256,7 @@ Use this structure for your research document:
 # Week 1 Day 2: Blockchain Infrastructure Research
 **Student Name:** [Idris Babatunde]  
 **Date:** [8 November 2025]  
-**Tweet Link:** []
+**Tweet Link:** [https://x.com/brothermanidris/status/1988160668051320908]
 
 ---
 
