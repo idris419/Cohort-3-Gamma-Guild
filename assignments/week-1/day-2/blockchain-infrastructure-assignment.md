@@ -627,7 +627,7 @@ And lastly (most importantly too),  ownership will be more liquid and programmab
 
 ---
 
-**Twitter Thread:** [Add your tweet link here]
+**Twitter Thread:** [https://x.com/brothermanidris/status/1988160668051320908]
 ```
 
 ---
